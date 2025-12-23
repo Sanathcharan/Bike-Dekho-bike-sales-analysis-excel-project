@@ -61,4 +61,3 @@ Exploratory Data Analysis (EDA)
 Excel PivotTables & Functions
 Interactive Dashboard Design
 
-Business Insight & Storytelling
